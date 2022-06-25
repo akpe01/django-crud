@@ -1,2 +1,0 @@
-# django-crud
-django crud
